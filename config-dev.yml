@@ -1,1 +1,2 @@
-111
+config: 
+  info: "springcloud-config version=1"
