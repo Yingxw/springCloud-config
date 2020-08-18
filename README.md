@@ -1,0 +1,2 @@
+# springCloud-config
+为springcloud的config组件提供配置文件
